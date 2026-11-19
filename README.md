@@ -1,73 +1,82 @@
-# Muhammed Salama
+<div align="center">
 
-**Laravel Backend Engineer** · Cairo, Egypt · currently working remotely for an enterprise in Riyadh
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,100:FF2D20&height=200&section=header&text=Muhammed%20Salama&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Laravel%20Backend%20Engineer&descSize=18&descAlignY=56" alt="Muhammed Salama, Laravel Backend Engineer" />
 
-I build production REST APIs for real estate, logistics and e-commerce platforms across Egypt, the UAE and Saudi Arabia: 200+ endpoints in production so far.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF2D20&center=true&vCenter=true&width=520&lines=REST+APIs+at+production+scale;OpenAI+chat+%26+voice+integrations;Payments%3A+Stripe+%C2%B7+Paymob+%C2%B7+MyFatoorah" alt="REST APIs at production scale · OpenAI chat & voice integrations · Payments: Stripe · Paymob · MyFatoorah" />
 
----
+**I build the Laravel backends that real estate, logistics and e-commerce businesses run on: payments that settle, data that imports clean, messages that arrive in real time.**
 
-## What I build
+Cairo, Egypt · Working remotely for an enterprise in Riyadh
 
-- **AI in production:** OpenAI chat and voice assistant with live audio transcription, inside a documented Laravel API (25+ modules)
-- **Payments:** Stripe, PayPal, Paymob and MyFatoorah, covering initiation, callbacks, webhooks and status sync
-- **Data pipelines:** Excel import that validates 10,000+ records per run and saves a Dubai brokerage 25+ hours a month
-- **Real-time:** messaging under 500ms over WebSockets/Pusher
-- **Multi-tenant access control:** custom tenant separation and RBAC built directly in Laravel, with no third-party package
-
-### Production work
-
-- **P-Adviser:** bilingual (AR/EN) real estate consulting platform · [Website](https://p-adviser.com/en) · [API docs](https://api.p-adviser.com/docs)
-- **Exspeeds:** logistics platform for shipment intake, tracking, dispatch and reconciliation · [Platform](https://exspeeds.com/login)
+</div>
 
 ---
 
-## Featured project: laravel-base
+## Proof, not promises
 
-Open-source package on Packagist, featured on Laravel News. One command scaffolds a complete API module: Repository, Service, Policy, OpenAPI docs and tests.
+| | |
+| :--- | :--- |
+| **200+** | production REST API endpoints across real estate, logistics and e-commerce |
+| **3 countries** | platforms live in Egypt, the UAE and Saudi Arabia |
+| **10,000+** | records validated per run by an Excel import pipeline |
+| **25+ hours** | saved every month for a Dubai brokerage by that pipeline |
+| **< 500ms** | real-time message delivery over WebSockets/Pusher |
+
+Also in production: an **OpenAI chat and voice assistant** with live transcription inside a documented Laravel API (25+ modules) · **Stripe, PayPal, Paymob and MyFatoorah** payments · **custom tenant separation and RBAC** built directly in Laravel, with no third-party package.
+
+---
+
+## Featured work
+
+### laravel-base
+
+Open-source Laravel package, featured on Laravel News. One Artisan command scaffolds a full API module: Repository, Service, Policy, OpenAPI docs and tests.
+
+<a href="https://github.com/MuhammedMSalama/LaravelBase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammedMSalama&repo=LaravelBase&bg_color=00000000&title_color=FF2D20&text_color=8B949E&icon_color=FF2D20&hide_border=true" alt="laravel-base" /></a>
+
+<a href="https://packagist.org/packages/muhammedsalama/laravel-base"><img src="https://img.shields.io/packagist/v/muhammedsalama/laravel-base?style=flat-square&color=FF2D20&label=packagist" alt="Packagist version" /></a>
+<a href="https://packagist.org/packages/muhammedsalama/laravel-base/stats"><img src="https://img.shields.io/packagist/dt/muhammedsalama/laravel-base?style=flat-square&color=FF2D20" alt="Downloads" /></a>
 
 ```bash
 composer require muhammedsalama/laravel-base
 php artisan make:module Product
 ```
 
-[![Packagist Version](https://img.shields.io/packagist/v/muhammedsalama/laravel-base?style=flat-square&logo=packagist&label=packagist&color=F28D1A)](https://packagist.org/packages/muhammedsalama/laravel-base)
-[![Downloads](https://img.shields.io/packagist/dt/muhammedsalama/laravel-base?style=flat-square&color=F28D1A)](https://packagist.org/packages/muhammedsalama/laravel-base/stats)
-[![License](https://img.shields.io/badge/license-MIT-22c55e?style=flat-square)](https://github.com/MuhammedMSalama/LaravelBase)
+### More open source
 
-[GitHub repository](https://github.com/MuhammedMSalama/LaravelBase) · [Packagist](https://packagist.org/packages/muhammedsalama/laravel-base)
+<a href="https://github.com/MuhammedMSalama/ChatMessage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammedMSalama&repo=ChatMessage&bg_color=00000000&title_color=FF2D20&text_color=8B949E&icon_color=FF2D20&hide_border=true" alt="ChatMessage" /></a>
+<a href="https://github.com/MuhammedMSalama/laravel-repository-service-pattern"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammedMSalama&repo=laravel-repository-service-pattern&bg_color=00000000&title_color=FF2D20&text_color=8B949E&icon_color=FF2D20&hide_border=true" alt="laravel-repository-service-pattern" /></a>
 
 ---
 
 ## Tech stack
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Swagger](https://img.shields.io/badge/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![PHPUnit](https://img.shields.io/badge/PHPUnit-3C9CD7?style=flat-square&logo=php&logoColor=white)
-![PHPStan](https://img.shields.io/badge/PHPStan-1E40AF?style=flat-square&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+| Backend | Data | DevOps | AI & real-time |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=php,laravel,js&theme=dark" alt="PHP, Laravel, JavaScript" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" alt="MySQL, PostgreSQL, Redis" /> | <img src="https://skillicons.dev/icons?i=docker,linux,git&theme=dark" alt="Docker, Linux, Git" /> | OpenAI API<br/>WebSockets · Pusher |
+| PHPUnit · PHPStan · Swagger/OpenAPI | | | |
 
-Also: WebSockets / Pusher · currently learning Node.js
+Currently learning Node.js.
 
 ---
 
-## GitHub stats
+## GitHub activity
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammedMSalama&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammedMSalama&show_icons=true&count_private=true&bg_color=00000000&title_color=FF2D20&text_color=8B949E&icon_color=FF2D20&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=MuhammedMSalama&background=00000000&hide_border=true&ring=FF2D20&fire=FF2D20&currStreakLabel=FF2D20&currStreakNum=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&stroke=30363D" alt="GitHub streak" />
+
+</div>
 
 ---
 
-## Hire me
+## Work with me
 
-Available for freelance backend work.
+Available for freelance backend work: REST APIs, payment integrations and AI features in Laravel.
 
-[![Upwork](https://img.shields.io/badge/Hire_me_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0182dd45bb78cc6fc1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed2050)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmuhammedsalama@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://muhammedmsalama.github.io/)
+<a href="https://www.upwork.com/freelancers/~0182dd45bb78cc6fc1"><img src="https://img.shields.io/badge/Hire_me_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire me on Upwork" /></a>
+<a href="https://www.linkedin.com/in/mohamed2050"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:devmuhammedsalama@gmail.com"><img src="https://img.shields.io/badge/Email-1A1B26?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:1A1B26&height=100&section=footer" alt="" />
