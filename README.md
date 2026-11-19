@@ -17,6 +17,7 @@ Cairo, Egypt · Working remotely for an enterprise in Riyadh
 | | |
 | :--- | :--- |
 | **200+** | production REST API endpoints across real estate, logistics and e-commerce |
+| **201** | REST API endpoints I built for a multi-role logistics platform: 5 mobile portals (operator station, region manager, delivery drivers, finance, foreign vendors) with OTP auth, QR scanning and cash settlement |
 | **3 countries** | platforms live in Egypt, the UAE and Saudi Arabia |
 | **10,000+** | records validated per run by an Excel import pipeline |
 | **25+ hours** | saved every month for a Dubai brokerage by that pipeline |
